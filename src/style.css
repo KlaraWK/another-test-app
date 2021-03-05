@@ -1,9 +1,14 @@
 h1 {
   text-align: center;
-  color: rebeccapurple;
+  color: darkred;
 }
 
 img {
   display: block;
   margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+form {
+  text-align: center;
 }
